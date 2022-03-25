@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"raphaelguerreiro1",
+         "name":"Raphael Guerreiro",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"bundesliga2122m23",
          "name":"vs Monchengladbach",
          "animated_sticker_pack":false,
