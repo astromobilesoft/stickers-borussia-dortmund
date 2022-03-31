@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"giovannireyna1",
+         "name":"Giovanni Reyna",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"julianbrandt1",
+         "name":"Julian Brandt",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"team2022",
          "name":"Team 2022",
          "animated_sticker_pack":false,
