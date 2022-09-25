@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"karimadeyemi1",
+         "name":"Karim Adeyemi",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"sebastienhaller1",
+         "name":"Sébastien Haller",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"giovannireyna1",
          "name":"Giovanni Reyna",
          "animated_sticker_pack":false,
