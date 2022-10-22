@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[  
       {
+         "identifier":"bundesliga2223m11",
+         "name":"vs Stuttgart",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
          "identifier":"dfbpokal2223f16",
          "name":"vs Hannover",
          "animated_sticker_pack":false,
