@@ -2,7 +2,49 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.dortmund",
    "ios_app_store_link":"",
    "sticker_packs":[
-       {
+      {
+         "identifier":"worldcup2022germany2",
+         "name":"World Cup Germany 1",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"worldcup2022germany3",
+         "name":"World Cup Germany 2",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"worldcup2022julianbrandt",
+         "name":"Julian Brandt",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"worldcup2022karimadeyemi",
+         "name":"Karim Adeyemi",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"worldcup2022nicoschlotterbeck",
+         "name":"Nico Schlotterbeck",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"worldcup2022niklassule",
+         "name":"Niklas Sule",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"worldcup2022youssoufamoukoko",
+         "name":"Youssoufa Moukoko",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
          "identifier":"bundesliga2223m13",
          "name":"vs Bochum",
          "animated_sticker_pack":false,
