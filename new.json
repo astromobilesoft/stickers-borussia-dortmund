@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2022GEspainvsgermany",
+         "name":" Deutschland vs Spanien",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022GEgermanyvsjapan",
+         "name":"Deutschland vs Japan",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"worldcup2022germany2",
          "name":"World Cup Germany 1",
          "animated_sticker_pack":false,
