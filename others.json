@@ -3,8 +3,14 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2022GEcostaricavsgermany",
+         "name":"Deutschland vs Costa Rica",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"worldcup2022GEspainvsgermany",
-         "name":" Deutschland vs Spanien",
+         "name":"Deutschland vs Spanien",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
