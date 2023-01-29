@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"bundesliga2223m18a",
+         "name":"vs Bayer Leverkusen (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"bundesliga2223m18b",
+         "name":"vs Bayer Leverkusen (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"bundesliga2223m17",
          "name":"vs Mainz",
          "animated_sticker_pack":false,
