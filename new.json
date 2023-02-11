@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"bundesliga2223m20",
+         "name":"vs Werder Bremen",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
          "identifier":"dfbpokal2223f8",
          "name":"vs Bochum",
          "animated_sticker_pack":false,
