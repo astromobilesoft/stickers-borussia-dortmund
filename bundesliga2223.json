@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"bundesliga2223m24a",
+         "name":"vs Schalke (1)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"bundesliga2223m24b",
+         "name":"vs Schalke (2)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
          "identifier":"bundesliga2223m23",
          "name":"vs Leipzig",
          "animated_sticker_pack":false,
