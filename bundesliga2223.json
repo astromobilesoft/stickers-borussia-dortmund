@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"bundesliga2223m25a",
+         "name":"vs Koln (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"bundesliga2223m25b",
+         "name":"vs Koln (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"bundesliga2223m24a",
          "name":"vs Schalke (1)",
          "animated_sticker_pack":false,
