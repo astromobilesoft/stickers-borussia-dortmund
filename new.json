@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"bundesliga2223m31a",
+         "name":"vs Wolfsburg (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"bundesliga2223m31b",
+         "name":"vs Wolfsburg (2)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
          "identifier":"bundesliga2223m29a",
          "name":"vs Frankfurt (1)",
          "animated_sticker_pack":false,
