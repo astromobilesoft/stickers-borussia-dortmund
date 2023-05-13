@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"bundesliga2223m32a",
+         "name":"vs B. Monchengladbach (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"bundesliga2223m32b",
+         "name":"vs B. Monchengladbach (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"bundesliga2223m31a",
          "name":"vs Wolfsburg (1)",
          "animated_sticker_pack":false,
