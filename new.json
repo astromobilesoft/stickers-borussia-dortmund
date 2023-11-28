@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2324gp5a",
+         "name":"vs Milan (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"ucl2324gp5b",
+         "name":"vs Milan (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"bundesliga2324m12",
          "name":"vs B. Monchengladbach",
          "animated_sticker_pack":false,
