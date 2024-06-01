@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2324pf1",
+         "name":"Team UCL Final (1)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"ucl2324pf2",
+         "name":"Team UCL Final (2)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
          "identifier":"ucl2324s2",
          "name":"vs Psg (2)",
          "animated_sticker_pack":false,
