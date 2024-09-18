@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2425f1a",
+         "name":"vs Club Brugge KV (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"ucl2425f1b",
+         "name":"vs Club Brugge KV (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"bundesliga2425m3",
          "name":"vs Heidenheim",
          "animated_sticker_pack":false,
