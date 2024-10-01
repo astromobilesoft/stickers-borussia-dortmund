@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2425f2a",
+         "name":"vs Celtic (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"ucl2425f2b",
+         "name":"vs Celtic (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"bundesliga2425m5",
          "name":"vs Bochum",
          "animated_sticker_pack":false,
