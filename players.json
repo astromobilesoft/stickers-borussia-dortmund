@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"donyellmalen",
+         "name":"Donyell Malen",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
          "identifier":"team2024",
          "name":"Team 2024",
          "animated_sticker_pack":false,

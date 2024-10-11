@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"donyellmalen",
+         "name":"Donyell Malen",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
          "identifier":"kit2425b",
          "name":"Kit Away 24-25",
          "animated_sticker_pack":false,
