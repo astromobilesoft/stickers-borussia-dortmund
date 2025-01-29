@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2425f8",
+         "name":"vs Shakhtar Donetsk",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
          "identifier":"bundesliga2425m15",
          "name":"vs Wolfsburg",
          "animated_sticker_pack":false,
