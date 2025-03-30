@@ -1,7 +1,13 @@
 {
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.dortmund",
    "ios_app_store_link":"",
-   "sticker_packs":[ 
+   "sticker_packs":[
+      {
+         "identifier":"bundesliga2425m27",
+         "name":"vs Mainz",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      }, 
       {
          "identifier":"ucl2425o2",
          "name":"vs Lille",
