@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"dfbpokal2526f32",
+         "name":"vs RW Essen",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
          "identifier":"kit2425e",
          "name":"Kit Neon 24-25",
          "animated_sticker_pack":false,
@@ -103,31 +109,31 @@
          "name":"vs Holstein Kiel",
          "animated_sticker_pack":false,
          "stickers":"23"
-      }, 
+      },
       {
          "identifier":"bundesliga2425m33",
          "name":"vs Bayer Leverkusen",
          "animated_sticker_pack":false,
          "stickers":"23"
-      }, 
+      },
       {
          "identifier":"bundesliga2425m32",
          "name":"vs Wolfsburg",
          "animated_sticker_pack":false,
          "stickers":"17"
-      }, 
+      },
       {
          "identifier":"bundesliga2425m31",
          "name":"vs Hoffenheim",
          "animated_sticker_pack":false,
          "stickers":"20"
-      }, 
+      },
       {
          "identifier":"bundesliga2425m30",
          "name":"vs Monchengladbach",
          "animated_sticker_pack":false,
          "stickers":"20"
-      }, 
+      },
       {
          "identifier":"ucl2425c2",
          "name":"vs Barcelona",
@@ -139,13 +145,13 @@
          "name":"vs Bayern Munich",
          "animated_sticker_pack":false,
          "stickers":"20"
-      }, 
+      },
       {
          "identifier":"bundesliga2425m28",
          "name":"vs Freiburg",
          "animated_sticker_pack":false,
          "stickers":"20"
-      }, 
+      },
       {
          "identifier":"bundesliga2425m27",
          "name":"vs Mainz",
@@ -889,7 +895,7 @@
          "name":"vs Eintracht Frankfurt",
          "animated_sticker_pack":false,
          "stickers":"30"
-      },  
+      },
       {
          "identifier":"bundesliga2223m11",
          "name":"vs Stuttgart",
