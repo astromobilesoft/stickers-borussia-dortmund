@@ -2,6 +2,12 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.dortmund",
    "ios_app_store_link":"",
    "sticker_packs":[
+      {
+         "identifier":"bundesliga2526m20",
+         "name":"vs St Heidenheim",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
        {
          "identifier":"bundesliga2526m18",
          "name":"vs St Pauli",
