@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"bundesliga2526m21",
+         "name":"vs Wolfsburg",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
          "identifier":"bundesliga2526m20",
          "name":"vs St Heidenheim",
          "animated_sticker_pack":false,
@@ -31,103 +37,103 @@
          "name":"vs Eintracht Frankfurt",
          "animated_sticker_pack":false,
          "stickers":"15"
-      }, 
+      },
       {
          "identifier":"bundesliga2526m15",
          "name":"vs Monchengladbach",
          "animated_sticker_pack":false,
          "stickers":"23"
-      },     
+      },
       {
          "identifier":"ucl2526gp6",
          "name":"vs Bodo",
          "animated_sticker_pack":false,
          "stickers":"21"
-      },        
+      },
       {
          "identifier":"bundesliga2526m13",
          "name":"vs Hoffenheim",
          "animated_sticker_pack":false,
          "stickers":"17"
-      },       
+      },
       {
          "identifier":"bundesliga2526m12",
          "name":"vs Bayer Leverkusen",
          "animated_sticker_pack":false,
          "stickers":"19"
-      },           
+      },
       {
          "identifier":"ucl2526gp5",
          "name":"vs Villarreal",
          "animated_sticker_pack":false,
          "stickers":"17"
-      },        
+      },
       {
          "identifier":"bundesliga2526m10",
          "name":"vs Hamburger SV",
          "animated_sticker_pack":false,
          "stickers":"22"
-      },       
+      },
       {
          "identifier":"bundesliga2526m9",
          "name":"vs Augsburg",
          "animated_sticker_pack":false,
          "stickers":"20"
-      },         
+      },
       {
          "identifier":"bundesliga2526m8",
          "name":"vs FC Koln",
          "animated_sticker_pack":false,
          "stickers":"15"
-      },         
+      },
       {
          "identifier":"ucl2526gp3",
          "name":"vs FC Copenhagen",
          "animated_sticker_pack":false,
          "stickers":"18"
-      },        
+      },
       {
          "identifier":"bundesliga2526m6",
          "name":"vs Leipzig",
          "animated_sticker_pack":false,
          "stickers":"18"
-      },       
+      },
       {
          "identifier":"ucl2526gp2",
          "name":"vs Ath Bilbao",
          "animated_sticker_pack":false,
          "stickers":"24"
-      },         
+      },
       {
          "identifier":"bundesliga2526m5",
          "name":"vs Mainz",
          "animated_sticker_pack":false,
          "stickers":"17"
-      },         
+      },
       {
          "identifier":"bundesliga2526m4",
          "name":"vs Wolfsburg",
          "animated_sticker_pack":false,
          "stickers":"19"
-      },          
+      },
       {
          "identifier":"ucl2526gp1",
          "name":"vs Juventus",
          "animated_sticker_pack":false,
          "stickers":"22"
-      },      
+      },
       {
          "identifier":"kit2526c",
          "name":"Kit Away 25-26",
          "animated_sticker_pack":false,
          "stickers":"28"
-      },      
+      },
       {
          "identifier":"bundesliga2526m3",
          "name":"vs Heidenheim",
          "animated_sticker_pack":false,
          "stickers":"18"
-      },       
+      },
       {
          "identifier":"bundesliga2526m2",
          "name":"vs Union Berlin",
