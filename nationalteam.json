@@ -1,0 +1,132 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.dortmund",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"worldcup2026germanyf2",
+         "name":"vs Ivory Coast",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"worldcup2026germanyf1",
+         "name":"vs Curacao",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },     
+      {
+         "identifier":"worldcup2026germany3",
+         "name":"World Cup 2026 (3)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"worldcup2026germany2",
+         "name":"World Cup 2026 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"worldcup2026germany1",
+         "name":"World Cup 2026 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"euro2024o2",
+         "name":"vs Denmark",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"euro2024fg3",
+         "name":"vs Switzerland",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"euro2024fg2",
+         "name":"vs Hungary",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"euro2024germany2",
+         "name":"Euro Goal",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"euro2024fg1",
+         "name":"vs Scotland",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"euro2024team1",
+         "name":"Team Euro 2024",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"worldcup2022GEcostaricavsgermany",
+         "name":"Deutschland vs Costa Rica",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022GEspainvsgermany",
+         "name":"Deutschland vs Spanien",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022GEgermanyvsjapan",
+         "name":"Deutschland vs Japan",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022germany2",
+         "name":"World Cup Germany 1",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"worldcup2022germany3",
+         "name":"World Cup Germany 2",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"worldcup2022julianbrandt",
+         "name":"Julian Brandt",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"worldcup2022karimadeyemi",
+         "name":"Karim Adeyemi",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"worldcup2022nicoschlotterbeck",
+         "name":"Nico Schlotterbeck",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"worldcup2022niklassule",
+         "name":"Niklas Sule",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"worldcup2022youssoufamoukoko",
+         "name":"Youssoufa Moukoko",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      }
+   ]
+}
